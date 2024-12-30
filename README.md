@@ -116,6 +116,7 @@ project/
 
 ## Contributors
 - **Khushvardhan Bhardwaj** (Primary Developer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/khushvardhanbhardwaj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/khushvardhanbhardwaj)
+
 
 
